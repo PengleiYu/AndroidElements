@@ -1,7 +1,6 @@
 package com.example.penglei.elements
 
 import android.os.Bundle
-import android.support.v7.app.AppCompatActivity
 import android.widget.Button
 import kotlinx.android.synthetic.main.activity_cursor.*
 
